@@ -8,8 +8,8 @@ import (
 
 	"github.com/hashicorp/errwrap"
 	"github.com/ipfs/go-cid"
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/routing"
+	"github.com/chiangmaioneluv/go-libp2p/core/peer"
+	"github.com/chiangmaioneluv/go-libp2p/core/routing"
 	mh "github.com/multiformats/go-multihash"
 )
 

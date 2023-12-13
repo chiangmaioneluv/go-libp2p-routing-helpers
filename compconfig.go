@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/libp2p/go-libp2p-routing-helpers/tracing"
-	"github.com/libp2p/go-libp2p/core/routing"
+	"github.com/chiangmaioneluv/go-libp2p-routing-helpers/tracing"
+	"github.com/chiangmaioneluv/go-libp2p/core/routing"
 	"github.com/multiformats/go-multihash"
 )
 
